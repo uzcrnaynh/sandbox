@@ -1,16 +1,14 @@
 # sandbox
 
-Personal workspace for experiments, snippets, and throwaway tests.
+Personal scratch space for experiments, notes, and quick tests.
 
 ## Contents
-
-- `notes/` — quick write-ups and references
+- `notes/` — short write-ups and ideas
 - `scripts/` — small utilities (may be rough)
+- `configs/` — sample configs for reference
 
 ## Usage
-
-Anything here is for exploration. No guarantees, no support.
+Feel free to poke around. Nothing here is guaranteed stable or production-ready.
 
 ## License
-
-MIT (unless noted otherwise).
+MIT (unless otherwise noted in individual files).
